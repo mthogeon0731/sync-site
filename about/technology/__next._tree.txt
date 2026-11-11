@@ -1,0 +1,4 @@
+:HL["/sync-site/_next/static/chunks/0sry.8dh4d4xr.css","style"]
+:HC["/",""]
+:HL["/sync-site/_next/static/chunks/0vfapb0esktlt.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":0,"slots":{"children":{"name":"about","param":null,"prefetchHints":0,"slots":{"children":{"name":"technology","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"-AkB2ApTJWz4eR2_KU8Gz"}
